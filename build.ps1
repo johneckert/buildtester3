@@ -4,4 +4,4 @@ New-Item -Path . -Name "distribution" -ItemType "directory"
 
 New-Item -Path './distribution' -Name "built3dada"-ItemType "file" -Value "From Build Tester"
 
-New-Item -Path './distribution' -Name "built2log"-ItemType "file" -Value "this would be log data about the project build."
+New-Item -Path './distribution' -Name "buildtester3-build-log.txt" -ItemType "file" -Value "this would be log data about the project build."
